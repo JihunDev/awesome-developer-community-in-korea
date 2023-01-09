@@ -43,6 +43,7 @@
 - [IAMROOT](http://www.iamroot.org/xe/) - Kernel, Linux
 - [야곰닷넷](https://yagom.net/) - Swift
 - [자바스크립트 개발자 포럼](https://jsdev.kr/) - Java Script, React
+- [임베디드 리눅스 시스템 포럼](http://forum.falinux.com/zbxe/) - Embedded S/W, H/W, Embedded Linux
 
 ## Naver Cafe
 - [당근이의 AVR 갖구 놀기](https://cafe.naver.com/carroty) - Embedded S/W, H/W
