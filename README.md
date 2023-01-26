@@ -79,6 +79,7 @@
 - [인디게임개발자 모임](https://www.facebook.com/groups/indiera/) - Game
 - [스마트폰게임개발자 그룹](https://www.facebook.com/groups/kmgda/) - Game
 - [인공지능 개발자 모임](https://www.facebook.com/groups/AIDevKr/?mibextid=HsNCOg) - AI
+- [챗봇 코리아](https://www.facebook.com/groups/ChatbotDevKR/) - 챗봇, 자연어 처리
 
 ## Google Groups
 - [한국 루비 사용자 모임](https://groups.google.com/d/forum/rubykr) - Ruby
