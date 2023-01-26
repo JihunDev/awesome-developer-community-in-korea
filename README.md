@@ -78,6 +78,7 @@
 - [Ruby on Rails Korea](https://www.facebook.com/groups/rubyonrailskorea/) - Ruby on Rails
 - [인디게임개발자 모임](https://www.facebook.com/groups/indiera/) - Game
 - [스마트폰게임개발자 그룹](https://www.facebook.com/groups/kmgda/) - Game
+- [인공지능 개발자 모임](https://www.facebook.com/groups/AIDevKr/?mibextid=HsNCOg) - AI
 
 ## Google Groups
 - [한국 루비 사용자 모임](https://groups.google.com/d/forum/rubykr) - Ruby
