@@ -5,7 +5,10 @@
 > 한국의 개발자 커뮤니티 목록을 모아두었습니다.
 >
 > [awesome-community](https://github.com/phpearth/awesome-community)에 영감을 받아 제작 하였습니다.
+>
+> 추가하고 싶은 커뮤니티가 있다면 [컨트리뷰션 가이드](https://github.com/JihunDev/awesome-developer-community-in-korea/blob/2d7e3646370584e046b7cfb09fb579f3dca3e91b/CONTRIBUTING.md%20)에 맞춰 Pull Request를 보내주세요.
 
+---
 ## Contents
 - [Website](#Website)
 - [Circle.so](#circl.so)
@@ -14,6 +17,7 @@
 - [Google Groups](#Google-Groups)
 - [Discord](#Discord)
 - [Community](#Community)
+---
 
 ## Website
 - [CodeIgniter 한국 사용자 포럼](https://www.cikorea.net/) - CodeIgniter
