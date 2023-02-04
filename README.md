@@ -6,7 +6,7 @@
 >
 > [awesome-community](https://github.com/phpearth/awesome-community)에 영감을 받아 제작 하였습니다.
 >
-> 추가하고 싶은 커뮤니티가 있다면 [Contributing guide](CONTRIBUTING.md)에 맞춰 Pull Request를 보내주세요.
+> 추가하고 싶은 커뮤니티가 있다면 [Contributing guide](https://github.com/JihunDev/awesome-developer-community-in-korea/blob/main/CONTRIBUTING.md%20)에 맞춰 Pull Request를 보내주세요.
 
 ---
 ## Contents
