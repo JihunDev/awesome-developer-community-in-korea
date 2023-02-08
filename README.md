@@ -8,7 +8,7 @@
 >
 > 추가하고 싶은 커뮤니티가 있다면 [Contributing guide](https://github.com/JihunDev/awesome-developer-community-in-korea/blob/main/CONTRIBUTING.md%20)에 맞춰 Pull Request를 보내주세요.
 
----
+
 ## Contents
 - [Website](#Website)
 - [Circle.so](#circl.so)
@@ -17,6 +17,7 @@
 - [Google Groups](#Google-Groups)
 - [Discord](#Discord)
 - [Community](#Community)
+
 ---
 
 ## Website
