@@ -1,0 +1,32 @@
+repo_name: JihunDev/awesome-developer-community-in-korea
+report_id: 83cf97d52e71f1272dfa9b62d9ad38a2
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:21:04+00:00'
+requested_by: JihunDev
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JihunDev/awesome-developer-community-in-korea
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/JihunDev/awesome-developer-community-in-korea/blob/main/.github/workflows/jekyll-gh-pages.yml
+  detection_source: ".github/workflows/jekyll-gh-pages.yml"
+  last_updated_by: JiHun Kim
+  last_updated_on: 2023-01-18 14:45:35.000000000 Z
