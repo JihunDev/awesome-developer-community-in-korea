@@ -1,0 +1,79 @@
+name: 커뮤니티 추가 요청
+description: 새로운 한국 개발자 커뮤니티를 추가해 주세요
+title: "[ADD] "
+labels: ["add community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        새로운 커뮤니티를 제안해 주셔서 감사합니다! 🎉
+        아래 양식을 작성해 주세요.
+
+  - type: input
+    id: name
+    attributes:
+      label: 커뮤니티 이름 (Community Name)
+      placeholder: 예) TensorFlow Korea
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: 예) https://www.facebook.com/groups/TensorFlowKR/
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: 설명 (Description)
+      description: 어떤 기술 스택이나 활동을 다루는 커뮤니티인지 간결하게 설명해 주세요 (마침표 없이)
+      placeholder: 예) TensorFlow 한국 사용자 그룹
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 카테고리 (Category)
+      description: 어떤 카테고리에 추가되어야 하나요?
+      options:
+        - 웹사이트 - 범용 Q&A
+        - 웹사이트 - AI / Machine Learning
+        - 웹사이트 - Database
+        - 웹사이트 - Embedded / IoT / Linux
+        - 웹사이트 - Frontend / JavaScript
+        - 웹사이트 - Game
+        - 웹사이트 - iOS / macOS
+        - 웹사이트 - Android
+        - 웹사이트 - Java / Spring
+        - 웹사이트 - .NET
+        - 웹사이트 - PHP
+        - 웹사이트 - Qt
+        - 웹사이트 - Unity
+        - 웹사이트 - 기타
+        - Circle.so
+        - 네이버 카페
+        - 페이스북 그룹
+        - Google Groups
+        - Discord
+        - 기타 커뮤니티
+        - 새로운 카테고리 필요
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 체크리스트 (Checklist)
+      options:
+        - label: 링크가 유효하고 접근 가능합니다
+          required: true
+        - label: 한국 개발자를 주요 대상으로 하는 커뮤니티입니다
+          required: true
+        - label: 활성화된 커뮤니티입니다
+          required: true
+        - label: 중복 항목이 없는지 확인했습니다
+          required: true

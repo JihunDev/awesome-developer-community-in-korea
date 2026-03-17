@@ -1,0 +1,37 @@
+name: 깨진 링크 신고
+description: 접근이 불가능한 링크를 신고해 주세요
+title: "[BROKEN LINK] "
+labels: ["broken link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        깨진 링크를 신고해 주셔서 감사합니다! 🙏
+
+  - type: input
+    id: community-name
+    attributes:
+      label: 커뮤니티 이름 (Community Name)
+      placeholder: 예) OKKY
+    validations:
+      required: true
+
+  - type: input
+    id: broken-url
+    attributes:
+      label: 깨진 URL (Broken URL)
+      placeholder: 예) https://okky.kr/
+    validations:
+      required: true
+
+  - type: input
+    id: new-url
+    attributes:
+      label: 새로운 URL (New URL, 알고 있는 경우)
+      placeholder: 새 URL을 알고 있다면 입력해 주세요
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 추가 설명 (Additional Notes)
+      placeholder: 사이트 폐쇄, URL 변경 등 알고 있는 내용을 작성해 주세요
