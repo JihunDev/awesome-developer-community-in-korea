@@ -1,3 +1,22 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: Awesome Developer Community in Korea
-description: 😎한국의 개발자 커뮤니티 목록 모음
+description: 😎 한국의 개발자 커뮤니티 목록 모음
+url: "https://jihundev.github.io"
+baseurl: "/awesome-developer-community-in-korea"
+
+# GitHub repository
+repository: JihunDev/awesome-developer-community-in-korea
+
+# SEO
+lang: ko
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
