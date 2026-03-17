@@ -1,19 +1,17 @@
-<div align="center">
-
 # Awesome Developer Community in Korea
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/JihunDev/awesome-developer-community-in-korea?style=social)](https://github.com/JihunDev/awesome-developer-community-in-korea/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/JihunDev/awesome-developer-community-in-korea/stargazers"><img src="https://img.shields.io/github/stars/JihunDev/awesome-developer-community-in-korea?style=social" alt="GitHub stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
 
-**😎 한국의 개발자 커뮤니티 목록을 모아두었습니다.**
-
-[awesome-community](https://github.com/phpearth/awesome-community)에 영감을 받아 제작되었습니다.
-
-추가하고 싶은 커뮤니티가 있다면 [Contributing Guide](CONTRIBUTING.md)를 참고하여 Pull Request를 보내주세요.
-
-</div>
+> 😎 한국의 개발자 커뮤니티 목록을 모아두었습니다.
+>
+> [awesome-community](https://github.com/phpearth/awesome-community)에 영감을 받아 제작되었습니다.
+>
+> 추가하고 싶은 커뮤니티가 있다면 [Contributing Guide](CONTRIBUTING.md)를 참고하여 Pull Request를 보내주세요.
 
 ---
 
